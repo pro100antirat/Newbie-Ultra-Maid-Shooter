@@ -1,3 +1,6 @@
+https://pro100antirat.github.io/Newbie-Ultra-Maid-Shooter/
+
 This prototype is only for researchers of sprite resizing.
 
-Controls: WASD / Arrows and mouse
+Move: WASD / Arrows
+Shoot: Mouse left button
